@@ -22,7 +22,7 @@ This Terraform setup provisions a highly available web application infrastructur
 
 ## New Workspace (dev)
 
-![dev work space](assests/new dev 1.png)
+![dev work space](assests/newdev1.png)
 
 
 - The dev workspace 
@@ -35,12 +35,12 @@ This Terraform setup provisions a highly available web application infrastructur
 
 ## Load Balancers
 
-![Public Loadbalancer](assests/public lb.png)
+![Public Loadbalancer](assests/publiclb.png)
 
 - Public access to the infrastructure starts
 
 
-![Private Loadbalancer](assests/private lb.png)
+![Private Loadbalancer](assests/privatelb.png)
 
 - 
 

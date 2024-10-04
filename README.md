@@ -56,7 +56,7 @@ This Terraform setup provisions a highly available web application infrastructur
 
 - DynamoDB locks dynamodb table statefile
 
-##Accessing Web Servers (DNS Connection check)
+## Accessing Web Servers (DNS Connection check)
 
 ![website 1](assests/website1.png)
 

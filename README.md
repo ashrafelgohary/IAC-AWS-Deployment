@@ -52,7 +52,7 @@ This Terraform setup provisions a highly available web application infrastructur
 
 ## DynamoDB state Locking
 
-![Dynamo DB](assests/dynamodb,png)
+![Dynamo DB](assests/dynamodb.png)
 
 - DynamoDB locks dynamodb table statefile
 
